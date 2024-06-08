@@ -1,4 +1,3 @@
-//your JS code here. If required.
 function days(date) {
 	if((date%4==0&&date%100!=0)||(date%400==0))
 	{
